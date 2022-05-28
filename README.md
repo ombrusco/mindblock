@@ -2,7 +2,7 @@
 
 How do we approach the task of constructing a shared view of reality when trust is decentralized, truth is minted, and the growing set of global challenges requires us to collaborate with those whose cultural context and perceptions may diverge from our own? Can applying large pretrained text-to-image neural networks to generate visual metaphors suggest a way forward?
 
-This repository contains the notebook used to create the 109 in the inaugural MindBlock.art NFT collection. Each image was generated using a prompt from transcribed utterances encoded using OpenAI CLIP and through a shared representation.[1] The prompts come from some of the first patients with schizophrenia to be studied at the Palo Alto Mental Research Institute, as well as from the interpretations of the researchers studying them.[2, 3] 
+This repository contains the notebook used to create the inaugural MindBlock.art NFT collection. Each image was generated using a prompt from transcribed utterances encoded using OpenAI CLIP and through a shared representation.[1] The prompts come from some of the first patients with schizophrenia to be studied at the Palo Alto Mental Research Institute, as well as from the interpretations of the researchers studying them.[2, 3] 
 
 Part of the code used to make metadata files has been added on /Resources.
 
